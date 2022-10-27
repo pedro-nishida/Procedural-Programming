@@ -1,12 +1,12 @@
 #include <stdio.h>
  
-int main() { 
+int main() {
     double raio, area;
-    scanf("%lf\n", &raio);
+    scanf("%lf", &raio);
 
     area = 3.14159 * raio * raio;
 
-    printf("A=%4.f\n", area);   
+    printf("A=%.4lf\n", area);   
  
     return 0;
 }
