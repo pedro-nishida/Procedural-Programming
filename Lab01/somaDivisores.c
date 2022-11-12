@@ -25,4 +25,6 @@ int main() {
     scanf("%d\n", &numero);
 
     printf("%d", somaDivisores(numero));
+
+    return 0;
 }

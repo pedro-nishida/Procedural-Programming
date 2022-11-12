@@ -18,11 +18,11 @@ int main() {
     scanf("%d %d", &primeiroInt, &segundoInt);
 
     //Saída de Dados
-    printf("%d + %d = %d,  ", primeiroInt, segundoInt, primeiroInt+segundoInt);
-    printf("%d - %d = %d,  ", primeiroInt, segundoInt,  primeiroInt-segundoInt);
-    printf("%d * %d = %d,  ", primeiroInt, segundoInt,  primeiroInt*segundoInt);
-    printf("%d / %d = %d,  ", primeiroInt, segundoInt,  primeiroInt/segundoInt);
-    printf("%d %% %d = %d,  ", primeiroInt, segundoInt,  primeiroInt%segundoInt);
+    printf("%d+%d = %d,  ", primeiroInt, segundoInt, primeiroInt+segundoInt);
+    printf("%d-%d = %d,  ", primeiroInt, segundoInt,  primeiroInt-segundoInt);
+    printf("%d*%d = %d,  ", primeiroInt, segundoInt,  primeiroInt*segundoInt);
+    printf("%d/%d = %d,  ", primeiroInt, segundoInt,  primeiroInt/segundoInt);
+    printf("%d%%%d = %d,  ", primeiroInt, segundoInt,  primeiroInt%segundoInt);
     
     return 0;
 }
