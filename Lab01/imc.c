@@ -46,7 +46,7 @@ int main() {
     int peso;
     float altura, imc;
 
-    printf("CALCULADORA DE IMC: \nInsira o peso:\n");
+    printf("Insira o peso:\n");
     scanf("%d", &peso);
     printf("Insira a altura: \n");
     scanf("%f", &altura);

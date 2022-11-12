@@ -7,15 +7,16 @@
 
 #include <stdio.h>
 
-
 int main() {
-    int n, i; 
+    int numberInput; 
 
     printf("Insira um número:\n");
-    scanf("%d", &n);
+    scanf("%d", &numberInput);
 
-    printf("%d, ", for( i = ) );
-
+    /*Expressão Fibonacci descrita dentro do loop até o termo-input colocado*/
+    /* Fn-1 = j,  Fn-2 = i, Fn = t */                                    
+    for(int j = 1, i = 0 , t = 0, k;  k < numberInput;  t = i + j, i = j, j = t, ++k) printf("%d, ", i);
+    printf("...");
 
     return 0;
 }
