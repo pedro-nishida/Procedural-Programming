@@ -3,6 +3,8 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 24 de nov 2022
+ * Programa que calcula de 0 a n numeros, os numeros primos incluídos 
+ * e a somatoria desses
 */
 
 #include <stdio.h>
@@ -22,13 +24,18 @@ int main(void) {
 }
 
 int primo(int num) {
-    int i;
-    //função de força bruta
-    for (i=2; i<num; i++){
-        if (num%i == 0) {
+
+    // numero par diferente de 2 é primo
+    if (numero != 2 && numero % 2 == 0) 
+        return 0;
+
+    // verificação progressiva até o ponto de inflexão dos multiplos
+    for(int i = 2; i < sqrt(numero); ++i) {
+        if (numero % i == 0) {
             return 0;
         }
     }
+
     return 1;
 }
 
