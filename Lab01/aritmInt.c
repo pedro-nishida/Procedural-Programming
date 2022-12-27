@@ -17,11 +17,20 @@ int main() {
     printf("Insira dois numeros inteiro: \n");
     scanf("%d %d", &primeiroInt, &segundoInt);
 
-    //Saída de Dados
+    //Saída de Dados:
+    //imprime ao usuário a soma dos numeros
     printf("%d+%d = %d,  ", primeiroInt, segundoInt, primeiroInt+segundoInt);
+
+    //imprime ao usuário a subtração dos numeros
     printf("%d-%d = %d,  ", primeiroInt, segundoInt,  primeiroInt-segundoInt);
+    
+    //imprime ao usuário o produto dos numeros
     printf("%d*%d = %d,  ", primeiroInt, segundoInt,  primeiroInt*segundoInt);
+    
+    //imprime ao usuário a divisão inteira dos numeros
     printf("%d/%d = %d,  ", primeiroInt, segundoInt,  primeiroInt/segundoInt);
+    
+    //imprime o resto da divisão dos numeros
     printf("%d%%%d = %d,  ", primeiroInt, segundoInt,  primeiroInt%segundoInt);
     
     return 0;
