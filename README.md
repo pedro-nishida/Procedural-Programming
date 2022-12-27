@@ -3,7 +3,8 @@
 
 <p>
 This respository has the coding work I've done to my Procedural Programming Class in my university.
-supervised by my professor/tutor: Ph.D Igor Santos Perreta
+supervised by my professor/tutor: 
+Ph.D Igor Santos Perreta <a href="https://www.linkedin.com/in/igor-santos-peretta/"> [Linkedin] </a>
 
 In each code, I've practiced knowledge brought in class through activities requested by my professor.
 
