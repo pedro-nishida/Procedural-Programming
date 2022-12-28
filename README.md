@@ -2,7 +2,7 @@
 <h2>About the repository:</h2>
 
 <p>
-This respository has the coding work I've done to my Procedural Programming Class in my university.
+This respository has the coding work I've done to my Procedural Programming Class in my university, during my freshman year in college (2nd semester).
 supervised by my professor/tutor: 
 Ph.D Igor Santos Perreta <a href="https://www.linkedin.com/in/igor-santos-peretta/"> [Linkedin] </a>
 
