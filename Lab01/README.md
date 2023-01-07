@@ -20,6 +20,7 @@
 - `cosTaylor.c`: Approximation of cos(_πx_) by Taylor series. The sum goes from 1 to an integer _n_ rather than to infinity.
 
 ## Problems Details
+###(In Brazilian Portuguese)
 
 <p align="center">
   <img src="https://github.com/pedro-nishida/PP-Lista/blob/main/Captura%20de%20tela%20de%202022-12-28%2011-30-38.png" height="700" width="700" alt="aritmInt"  />
