@@ -3,7 +3,8 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 24 de nov 2022   (Editado em 27 de dez 2022)
- * 
+ * Status de Teste: VERIFICADO
+ *  
  * Dado um número inteiro pelo usuário, o programa calcula a somatória
  *  dos valores da sequência de Hailstone: 
  *  para X de n+1, Xn/2 se X é par ou 3.Xn + 1 se X for ímpar.

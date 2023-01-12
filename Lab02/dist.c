@@ -3,6 +3,9 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 24 de nov 2022
+ * Status de Teste: VERIFICADO
+ * 
+ * Programa calcula a distancia entre dois pontos de coordenadas bidimencional.
 */
 
 #include <stdio.h>

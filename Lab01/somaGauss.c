@@ -3,6 +3,9 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 3 de nov 2022
+ * Status de Teste: VERIFICADO
+ * 
+ * Programa imprime o resultado da formula Gausiana através de dado número inteiro.
 */
 
 #include <stdio.h>

@@ -3,6 +3,9 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 24 de nov 2022
+ * Status de Teste: VERIFICADO
+ * 
+ * O programa mostra todos os divisores inteiros de dado numero.
 */
 
 #include <stdio.h>

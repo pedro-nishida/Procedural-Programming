@@ -3,6 +3,9 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 24 de nov 2022
+ * Status de Teste: VERIFICADO
+ * 
+ * Programa calcula a Area de um triangulo retangulo com duas coordenadas bidimencionais.
 */
 
 #include <stdio.h>

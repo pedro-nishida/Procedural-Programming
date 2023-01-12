@@ -4,6 +4,7 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 4 de dez 2022
+ * Status de Teste: VERIFICADO
  * 
  * Algoritmo que calcula a multiplicação de todos valores da lista
 */

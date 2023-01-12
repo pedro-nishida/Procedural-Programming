@@ -1,3 +1,13 @@
+/**
+ * Arquivo: contaVogais.c
+ * Autor: Pedro Henrique Fujinami Nishida
+ * Matrícula: 12121ECP015
+ * Criado em: 11 de dezembro 2022
+ * Status de Teste: VERIFICADO
+ * 
+ * dado uma lista de characteres, o programa conta as vogais presentes.
+*/
+
 #include <stdio.h>
 #define N 1024
 
@@ -39,7 +49,7 @@ int vowel_count(char * str) {
         str[i] == 'I' || str[i] == 'i' || 
         str[i] == 'O' || str[i] == 'o' ||
         str[i] == 'U' || str[i] == 'u') {
-            count += count + 1;
+            count += 1;
         }
         i++;
     }

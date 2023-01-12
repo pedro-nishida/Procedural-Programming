@@ -3,6 +3,9 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 9 de nov 2022
+ * Status de Teste: VERIFICADO
+ * 
+ * Programa calcula IMC e devolve mensagem de acordo com seu nível IMC.
  */
 
 #include <stdio.h>

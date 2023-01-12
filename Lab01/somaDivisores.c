@@ -3,7 +3,11 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 11 de nov 2022
+ * Status de Teste: VERIFICADO
+ * 
+ * Programa faz a somatória de todos os divisores de dado número. 
 */
+
 #include <stdio.h>
 
 int somaDivisores(numero) {

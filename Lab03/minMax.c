@@ -4,6 +4,7 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 1 de dez 2022
+ * Status de teste: VERIFICADO
  * 
  * Em uma lista de numeros, o algoritmo mostra qual delas é o menor e o maior.
 */
@@ -21,7 +22,7 @@ int main(void) {
 
     int vetor[entrada];
     for(int i = 0;i < entrada;i++) {
-        printf("insira o %dº elemento: ", i + 1);
+        printf("insira o %do elemento: ", i + 1);
         scanf("%d", vetor + i);
     }
 

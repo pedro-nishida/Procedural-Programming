@@ -3,6 +3,9 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 24 de nov 2022
+ * Staus de Teste: VERIFICADO
+ * 
+ * O programa mostra os numeros impares existentes no intervalo de dados dois numeros inteiros.
 */
 
 #include <stdio.h>

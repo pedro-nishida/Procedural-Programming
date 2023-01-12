@@ -3,6 +3,9 @@
  * Autor: Pedro Henrique Fujinami Nishida
  * Matrícula: 12121ECP015
  * Criado em: 9 de nov 2022
+ * Status de Teste: VERIFICADO
+ * 
+ * Programa demosttra a fatorial de dado número
 */
 
 #include <stdio.h>  /*possibilita o uso de funções printf e scanf*/
